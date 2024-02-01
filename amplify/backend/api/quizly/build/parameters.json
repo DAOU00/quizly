@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "quizly",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-amplify0a13e209bfc74-staging-144341-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/ff1a2fd63889491b75cbb625ca71ec7dc2002c85"
+}
