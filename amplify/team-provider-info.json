@@ -1,4 +1,30 @@
 {
+  "production": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quizly-production-153053-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905418076359:role/amplify-quizly-production-153053-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905418076359:role/amplify-quizly-production-153053-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-quizly-production-153053-deployment",
+      "UnauthRoleName": "amplify-quizly-production-153053-unauthRole",
+      "StackName": "amplify-quizly-production-153053",
+      "StackId": "arn:aws:cloudformation:us-east-1:905418076359:stack/amplify-quizly-production-153053/e30e71c0-c116-11ee-b48c-0a63fb9d2dbb",
+      "AmplifyAppId": "d32bt0catylyy5"
+    }
+  },
+  "devlop": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quizly-devlop-151955-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905418076359:role/amplify-quizly-devlop-151955-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905418076359:role/amplify-quizly-devlop-151955-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-quizly-devlop-151955-deployment",
+      "UnauthRoleName": "amplify-quizly-devlop-151955-unauthRole",
+      "StackName": "amplify-quizly-devlop-151955",
+      "StackId": "arn:aws:cloudformation:us-east-1:905418076359:stack/amplify-quizly-devlop-151955/5b2242b0-c115-11ee-a7f9-0e04fa5e768f",
+      "AmplifyAppId": "d32bt0catylyy5"
+    }
+  },
   "staging": {
     "awscloudformation": {
       "AuthRoleName": "amplify-amplify0a13e209bfc74-staging-144341-authRole",
