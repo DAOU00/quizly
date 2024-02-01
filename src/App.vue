@@ -9,5 +9,5 @@
 </script>
 
 <style>
-/* App-level styles */
+/* App-level styles. */
 </style>
